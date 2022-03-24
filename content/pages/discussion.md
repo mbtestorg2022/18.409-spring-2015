@@ -9,7 +9,7 @@ Nonnegative Matrix Factorization
 
 Discussion: When does well-posedness lead to better algorithms?
 
-Balcan, M., A. Blum, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Clustering under Approximation Stability." (PDF)](http://www.cs.cmu.edu/%7Eninamf/papers/clustering-bbg-jacm.pdf) _Journal of the ACM_ (2013).
+Balcan, M., A. Blum, et al. ["Clustering under Approximation Stability." (PDF)](http://www.cs.cmu.edu/%7Eninamf/papers/clustering-bbg-jacm.pdf) _Journal of the ACM_ (2013).
 
 Tensor Decompositions
 ---------------------

@@ -26,7 +26,7 @@ If you have ideas of your own of what you would like to work on, that is great! 
 
 *   **Approximation Stability**
     
-    Balcan, Marian-Florina, Avrium Blum, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Approximate Clustering without the Approximation." (PDF)](http://www.cs.cmu.edu/~avrim/Papers/bbg-clustering-2010.pdf) _ACM-SIAM Symposium on Discrete Algorithms_ (2009).
+    Balcan, Marian-Florina, Avrium Blum, et al. ["Approximate Clustering without the Approximation." (PDF)](http://www.cs.cmu.edu/~avrim/Papers/bbg-clustering-2010.pdf) _ACM-SIAM Symposium on Discrete Algorithms_ (2009).
     
     Awasthi, Pranjal, Avrium Blum, et al. "[Stability Yields a PTAS for k-Median and k-Means Clustering](http://dx.doi.org/10.1109/FOCS.2010.36)." _Foundations of Computer Science_ (2010): 309–18.
     
@@ -83,4 +83,4 @@ If you have ideas of your own of what you would like to work on, that is great! 
     
     Wigderson, Avi, and Amir Yehudayoff. "[Population Recovery and Partial Identifcation](http://dx.doi.org/10.1109/FOCS.2012.14)." _Foundations of Computer Scinece_ (2012): 390–99.
     
-    Moitra, Ankur, and Maichael Saks. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Polynomial Time Algorithm for Lossy Population Recovery." (PDF)](http://arxiv.org/pdf/1302.1515.pdf) (2013).
+    Moitra, Ankur, and Maichael Saks. ["A Polynomial Time Algorithm for Lossy Population Recovery." (PDF)](http://arxiv.org/pdf/1302.1515.pdf) (2013).

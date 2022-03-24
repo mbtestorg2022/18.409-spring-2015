@@ -56,7 +56,7 @@ Dasgupta, S. "[Learning Mixtures of Gaussians](http://dx.doi.org/10.1109/SFFCS.1
 
 Arora, S., and R. Kannan. "[Learning Mixtures of Separated Nonspherical Gaussians](http://dx.doi.org/10.1214/105051604000000512)." _The Annals of Applied Probability_ 15, no. 1A (2005): 69–92.
 
-Kalai, A., A. Moitra, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Efficiently Learning Mixtures of Two Gaussians." (PDF)](http://people.csail.mit.edu/moitra/docs/2g-full.pdf) _Symposium on Theory of Computing_ (2010).
+Kalai, A., A. Moitra, et al. ["Efficiently Learning Mixtures of Two Gaussians." (PDF)](http://people.csail.mit.edu/moitra/docs/2g-full.pdf) _Symposium on Theory of Computing_ (2010).
 
 Moitra, A., and G. Valiant. "[Settling the Polynomial Learnability of Mixtures of Gaussians](http://arxiv.org/abs/1004.4223)." _Foundations of Computer Science_ (2010).
 
