@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_6.046J / 18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/) or equivalent and [_6.041SC Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) or [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014/) or equivalent. You will need a strong background in algorithms, probability and linear algebra.
+[_6.046J / 18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012) or equivalent and [_6.041SC Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) or [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014) or equivalent. You will need a strong background in algorithms, probability and linear algebra.
 
 Description
 -----------
